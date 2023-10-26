@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Practice2/static/css/main.a8b1071c.css",
+    "main.js": "/React-Practice2/static/js/main.cb05dea0.js",
+    "static/media/password.gif": "/React-Practice2/static/media/password.41b50a01b4d0a0f2c9ba.gif",
+    "index.html": "/React-Practice2/index.html",
+    "main.a8b1071c.css.map": "/React-Practice2/static/css/main.a8b1071c.css.map",
+    "main.cb05dea0.js.map": "/React-Practice2/static/js/main.cb05dea0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8b1071c.css",
+    "static/js/main.cb05dea0.js"
+  ]
+}
